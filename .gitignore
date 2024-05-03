@@ -1,0 +1,11 @@
+.vs/
+AuthService/obj/
+AuthService/bin/
+NotificationService/obj/
+UserAuthUI/obj/
+UserService/bin/
+UserService/obj/
+UtilityLibrary/obj/
+NotificationService/bin/
+UtilityLibrary/bin/
+UserAuthUI/bin/
