@@ -1,5 +1,3 @@
----
-
 ## Part 1: Setup application
 In order to setup the application you need to insert your connection MS SQL database connection string in file "App.config" which you can find in "AuthService" folder.
 
